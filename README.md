@@ -35,5 +35,4 @@ A simple and responsive Calculator application built using **HTML**, **CSS**, an
 2. Open `index.html` in your web browser.
 3. Click the buttons to perform calculations.
 
-## 📁 Project Structure
 
