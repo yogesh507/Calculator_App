@@ -26,7 +26,7 @@ A simple and responsive Calculator application built using **HTML**, **CSS**, an
 - **JavaScript** – to handle calculator logic and interactivity
 
 ## 🖼️ Preview
-
+![Preview](Preview.png)
  
 
 ## 🚀 How to Use
